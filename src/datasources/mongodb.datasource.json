@@ -1,0 +1,10 @@
+{
+  "name": "mongodb",
+  "connector": "mongodb",
+  "url": "mongodb://root:example@0.0.0.0:27017/admin",
+  "host": "0.0.0.0",
+  "port": 27017,
+  "user": "root",
+  "password": "example",
+  "database": "admin"
+}
